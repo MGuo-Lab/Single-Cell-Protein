@@ -1,0 +1,107 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,RPR,Barley_Residue,Flag,Flag Description
+QC,Crops,2,Afghanistan,5510,Production,44,Barley,2018,2018,tonnes,56781,1.75,99366.75,,Official data
+QC,Crops,3,Albania,5510,Production,44,Barley,2018,2018,tonnes,9655,1.75,16896.25,,Official data
+QC,Crops,4,Algeria,5510,Production,44,Barley,2018,2018,tonnes,1957327,1.75,3425322.25,,Official data
+QC,Crops,9,Argentina,5510,Production,44,Barley,2018,2018,tonnes,5061069,1.75,8856870.75,,Official data
+QC,Crops,1,Armenia,5510,Production,44,Barley,2018,2018,tonnes,124167,1.75,217292.25,,Official data
+QC,Crops,10,Australia,5510,Production,44,Barley,2018,2018,tonnes,9253852,1.75,16194241,,Official data
+QC,Crops,11,Austria,5510,Production,44,Barley,2018,2018,tonnes,691030,1.75,1209302.5,,Official data
+QC,Crops,52,Azerbaijan,5510,Production,44,Barley,2018,2018,tonnes,916036,1.75,1603063,,Official data
+QC,Crops,16,Bangladesh,5510,Production,44,Barley,2018,2018,tonnes,244,1.75,427,,Official data
+QC,Crops,57,Belarus,5510,Production,44,Barley,2018,2018,tonnes,944341,1.75,1652596.75,,Official data
+QC,Crops,255,Belgium,5510,Production,44,Barley,2018,2018,tonnes,324120,1.75,567210,,Official data
+QC,Crops,18,Bhutan,5510,Production,44,Barley,2018,2018,tonnes,929,1.75,1625.75,,Official data
+QC,Crops,19,Bolivia (Plurinational State of),5510,Production,44,Barley,2018,2018,tonnes,46620,1.75,81585,,Official data
+QC,Crops,80,Bosnia and Herzegovina,5510,Production,44,Barley,2018,2018,tonnes,79060,1.75,138355,,Official data
+QC,Crops,21,Brazil,5510,Production,44,Barley,2018,2018,tonnes,330374,1.75,578154.5,,Official data
+QC,Crops,27,Bulgaria,5510,Production,44,Barley,2018,2018,tonnes,448700,1.75,785225,,Official data
+QC,Crops,33,Canada,5510,Production,44,Barley,2018,2018,tonnes,8379700,1.75,14664475,,Official data
+QC,Crops,40,Chile,5510,Production,44,Barley,2018,2018,tonnes,170652,1.75,298641,,Official data
+QC,Crops,351,China,5510,Production,44,Barley,2018,2018,tonnes,956500,1.75,1673875,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,44,Colombia,5510,Production,44,Barley,2018,2018,tonnes,10004,1.75,17507,,Official data
+QC,Crops,98,Croatia,5510,Production,44,Barley,2018,2018,tonnes,230170,1.75,402797.5,,Official data
+QC,Crops,50,Cyprus,5510,Production,44,Barley,2018,2018,tonnes,7920,1.75,13860,,Official data
+QC,Crops,167,Czechia,5510,Production,44,Barley,2018,2018,tonnes,1606030,1.75,2810552.5,,Official data
+QC,Crops,116,Democratic People's Republic of Korea,5510,Production,44,Barley,2018,2018,tonnes,22000,1.75,38500,*,Unofficial figure
+QC,Crops,250,Democratic Republic of the Congo,5510,Production,44,Barley,2018,2018,tonnes,1061,1.75,1856.75,Im,FAO data based on imputation methodology
+QC,Crops,54,Denmark,5510,Production,44,Barley,2018,2018,tonnes,3445170,1.75,6029047.5,,Official data
+QC,Crops,58,Ecuador,5510,Production,44,Barley,2018,2018,tonnes,13674,1.75,23929.5,,Official data
+QC,Crops,59,Egypt,5510,Production,44,Barley,2018,2018,tonnes,82406,1.75,144210.5,,Official data
+QC,Crops,178,Eritrea,5510,Production,44,Barley,2018,2018,tonnes,65000,1.75,113750,*,Unofficial figure
+QC,Crops,63,Estonia,5510,Production,44,Barley,2018,2018,tonnes,347500,1.75,608125,,Official data
+QC,Crops,238,Ethiopia,5510,Production,44,Barley,2018,2018,tonnes,1748920,1.75,3060610,,Official data
+QC,Crops,67,Finland,5510,Production,44,Barley,2018,2018,tonnes,1353190,1.75,2368082.5,,Official data
+QC,Crops,68,France,5510,Production,44,Barley,2018,2018,tonnes,11042820,1.75,19324935,,Official data
+QC,Crops,73,Georgia,5510,Production,44,Barley,2018,2018,tonnes,57700,1.75,100975,,Official data
+QC,Crops,79,Germany,5510,Production,44,Barley,2018,2018,tonnes,9583600,1.75,16771300,,Official data
+QC,Crops,84,Greece,5510,Production,44,Barley,2018,2018,tonnes,344610,1.75,603067.5,,Official data
+QC,Crops,89,Guatemala,5510,Production,44,Barley,2018,2018,tonnes,28,1.75,49,Im,FAO data based on imputation methodology
+QC,Crops,97,Hungary,5510,Production,44,Barley,2018,2018,tonnes,1145540,1.75,2004695,,Official data
+QC,Crops,99,Iceland,5510,Production,44,Barley,2018,2018,tonnes,3900,1.75,6825,,Official data
+QC,Crops,100,India,5510,Production,44,Barley,2018,2018,tonnes,1780810,1.75,3116417.5,,Official data
+QC,Crops,102,Iran (Islamic Republic of),5510,Production,44,Barley,2018,2018,tonnes,2800000,1.75,4900000,*,Unofficial figure
+QC,Crops,103,Iraq,5510,Production,44,Barley,2018,2018,tonnes,190647,1.75,333632.25,,Official data
+QC,Crops,104,Ireland,5510,Production,44,Barley,2018,2018,tonnes,1181560,1.75,2067730,,Official data
+QC,Crops,105,Israel,5510,Production,44,Barley,2018,2018,tonnes,5000,1.75,8750,,Official data
+QC,Crops,106,Italy,5510,Production,44,Barley,2018,2018,tonnes,1040990,1.75,1821732.5,,Official data
+QC,Crops,110,Japan,5510,Production,44,Barley,2018,2018,tonnes,174700,1.75,305725,,Official data
+QC,Crops,112,Jordan,5510,Production,44,Barley,2018,2018,tonnes,47245,1.75,82678.75,,Official data
+QC,Crops,108,Kazakhstan,5510,Production,44,Barley,2018,2018,tonnes,3971266,1.75,6949715.5,,Official data
+QC,Crops,114,Kenya,5510,Production,44,Barley,2018,2018,tonnes,78267,1.75,136967.25,,Official data
+QC,Crops,118,Kuwait,5510,Production,44,Barley,2018,2018,tonnes,2338,1.75,4091.5,,Official data
+QC,Crops,113,Kyrgyzstan,5510,Production,44,Barley,2018,2018,tonnes,429306,1.75,751285.5,,Official data
+QC,Crops,119,Latvia,5510,Production,44,Barley,2018,2018,tonnes,306300,1.75,536025,,Official data
+QC,Crops,121,Lebanon,5510,Production,44,Barley,2018,2018,tonnes,30000,1.75,52500,*,Unofficial figure
+QC,Crops,122,Lesotho,5510,Production,44,Barley,2018,2018,tonnes,458,1.75,801.5,Im,FAO data based on imputation methodology
+QC,Crops,124,Libya,5510,Production,44,Barley,2018,2018,tonnes,70000,1.75,122500,*,Unofficial figure
+QC,Crops,126,Lithuania,5510,Production,44,Barley,2018,2018,tonnes,619540,1.75,1084195,,Official data
+QC,Crops,256,Luxembourg,5510,Production,44,Barley,2018,2018,tonnes,35390,1.75,61932.5,,Official data
+QC,Crops,134,Malta,5510,Production,44,Barley,2018,2018,tonnes,,1.75,,,Official data
+QC,Crops,136,Mauritania,5510,Production,44,Barley,2018,2018,tonnes,1569,1.75,2745.75,Im,FAO data based on imputation methodology
+QC,Crops,138,Mexico,5510,Production,44,Barley,2018,2018,tonnes,1008642,1.75,1765123.5,,Official data
+QC,Crops,141,Mongolia,5510,Production,44,Barley,2018,2018,tonnes,2355,1.75,4121.25,,Official data
+QC,Crops,273,Montenegro,5510,Production,44,Barley,2018,2018,tonnes,1082,1.75,1893.5,,Official data
+QC,Crops,143,Morocco,5510,Production,44,Barley,2018,2018,tonnes,2851022,1.75,4989288.5,,Official data
+QC,Crops,28,Myanmar,5510,Production,44,Barley,2018,2018,tonnes,,1.75,,M,Data not available
+QC,Crops,149,Nepal,5510,Production,44,Barley,2018,2018,tonnes,30510,1.75,53392.5,,Official data
+QC,Crops,150,Netherlands,5510,Production,44,Barley,2018,2018,tonnes,247500,1.75,433125,,Official data
+QC,Crops,156,New Zealand,5510,Production,44,Barley,2018,2018,tonnes,379704,1.75,664482,,Official data
+QC,Crops,154,North Macedonia,5510,Production,44,Barley,2018,2018,tonnes,130028,1.75,227549,,Official data
+QC,Crops,162,Norway,5510,Production,44,Barley,2018,2018,tonnes,440900,1.75,771575,,Official data
+QC,Crops,221,Oman,5510,Production,44,Barley,2018,2018,tonnes,1661,1.75,2906.75,,Official data
+QC,Crops,165,Pakistan,5510,Production,44,Barley,2018,2018,tonnes,55131,1.75,96479.25,,Official data
+QC,Crops,299,Palestine,5510,Production,44,Barley,2018,2018,tonnes,15018,1.75,26281.5,Im,FAO data based on imputation methodology
+QC,Crops,170,Peru,5510,Production,44,Barley,2018,2018,tonnes,213385,1.75,373423.75,,Official data
+QC,Crops,173,Poland,5510,Production,44,Barley,2018,2018,tonnes,2991560,1.75,5235230,,Official data
+QC,Crops,174,Portugal,5510,Production,44,Barley,2018,2018,tonnes,62340,1.75,109095,,Official data
+QC,Crops,179,Qatar,5510,Production,44,Barley,2018,2018,tonnes,237,1.75,414.75,,Official data
+QC,Crops,117,Republic of Korea,5510,Production,44,Barley,2018,2018,tonnes,102702,1.75,179728.5,,Official data
+QC,Crops,146,Republic of Moldova,5510,Production,44,Barley,2018,2018,tonnes,175296,1.75,306768,,Official data
+QC,Crops,183,Romania,5510,Production,44,Barley,2018,2018,tonnes,1870710,1.75,3273742.5,,Official data
+QC,Crops,185,Russian Federation,5510,Production,44,Barley,2018,2018,tonnes,16991907,1.75,29735837.25,,Official data
+QC,Crops,184,Rwanda,5510,Production,44,Barley,2018,2018,tonnes,,1.75,,M,Data not available
+QC,Crops,194,Saudi Arabia,5510,Production,44,Barley,2018,2018,tonnes,504810,1.75,883417.5,,Official data
+QC,Crops,272,Serbia,5510,Production,44,Barley,2018,2018,tonnes,410138,1.75,717741.5,,Official data
+QC,Crops,199,Slovakia,5510,Production,44,Barley,2018,2018,tonnes,486900,1.75,852075,,Official data
+QC,Crops,198,Slovenia,5510,Production,44,Barley,2018,2018,tonnes,88060,1.75,154105,,Official data
+QC,Crops,202,South Africa,5510,Production,44,Barley,2018,2018,tonnes,421500,1.75,737625,,Official data
+QC,Crops,203,Spain,5510,Production,44,Barley,2018,2018,tonnes,9554160,1.75,16719780,,Official data
+QC,Crops,276,Sudan,5510,Production,44,Barley,2018,2018,tonnes,,1.75,,M,Data not available
+QC,Crops,210,Sweden,5510,Production,44,Barley,2018,2018,tonnes,1094400,1.75,1915200,,Official data
+QC,Crops,211,Switzerland,5510,Production,44,Barley,2018,2018,tonnes,182120,1.75,318710,,Official data
+QC,Crops,212,Syrian Arab Republic,5510,Production,44,Barley,2018,2018,tonnes,408110,1.75,714192.5,,Official data
+QC,Crops,208,Tajikistan,5510,Production,44,Barley,2018,2018,tonnes,108817,1.75,190429.75,,Official data
+QC,Crops,216,Thailand,5510,Production,44,Barley,2018,2018,tonnes,130000,1.75,227500,F,FAO estimate
+QC,Crops,222,Tunisia,5510,Production,44,Barley,2018,2018,tonnes,334700,1.75,585725,,Official data
+QC,Crops,223,Turkey,5510,Production,44,Barley,2018,2018,tonnes,7000000,1.75,12250000,,Official data
+QC,Crops,213,Turkmenistan,5510,Production,44,Barley,2018,2018,tonnes,18325,1.75,32068.75,Im,FAO data based on imputation methodology
+QC,Crops,230,Ukraine,5510,Production,44,Barley,2018,2018,tonnes,7349140,1.75,12860995,,Official data
+QC,Crops,225,United Arab Emirates,5510,Production,44,Barley,2018,2018,tonnes,,1.75,,M,Data not available
+QC,Crops,229,United Kingdom of Great Britain and Northern Ireland,5510,Production,44,Barley,2018,2018,tonnes,6510000,1.75,11392500,,Official data
+QC,Crops,215,United Republic of Tanzania,5510,Production,44,Barley,2018,2018,tonnes,19501,1.75,34126.75,,Official data
+QC,Crops,231,United States of America,5510,Production,44,Barley,2018,2018,tonnes,3342660,1.75,5849655,,Official data
+QC,Crops,234,Uruguay,5510,Production,44,Barley,2018,2018,tonnes,385000,1.75,673750,,Official data
+QC,Crops,235,Uzbekistan,5510,Production,44,Barley,2018,2018,tonnes,111760,1.75,195580,,Official data
+QC,Crops,249,Yemen,5510,Production,44,Barley,2018,2018,tonnes,16888,1.75,29554,,Official data
+QC,Crops,251,Zambia,5510,Production,44,Barley,2018,2018,tonnes,11063,1.75,19360.25,Im,FAO data based on imputation methodology
+QC,Crops,181,Zimbabwe,5510,Production,44,Barley,2018,2018,tonnes,55779,1.75,97613.25,Im,FAO data based on imputation methodology

@@ -1,0 +1,7 @@
+Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,RPR,barley_residue_t1,barley_residue_t,Flag,Flag Description
+QC,Crops,5100,Africa,5510,Production,44,Barley,2018,2018,tonnes,7698573,1.75,13472502.75,14816550,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5203,Northern America,5510,Production,44,Barley,2018,2018,tonnes,11722360,1.75,20514130,20514130,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5207,South America,5510,Production,44,Barley,2018,2018,tonnes,6230778,1.75,10903861.5,10903861.5,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,44,Barley,2018,2018,tonnes,20079913,1.75,35139847.75,35139847.75,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,44,Barley,2018,2018,tonnes,83369457,1.75,145896549.8,145896549.8,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5500,Oceania,5510,Production,44,Barley,2018,2018,tonnes,9633556,1.75,16858723,16858723,A,"Aggregate, may include official, semi-official, estimated or calculated data"

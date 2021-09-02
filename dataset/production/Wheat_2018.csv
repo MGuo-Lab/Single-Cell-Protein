@@ -1,0 +1,125 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,RPR,Wheat_Residue,Flag,Flag Description
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,15,Wheat,2018,2018,tonnes,3613300,1.75,6323275,,Official data
+QCL,Crops and livestock products,3,Albania,5510,Production,15,Wheat,2018,2018,tonnes,240294,1.75,420514.5,,Official data
+QCL,Crops and livestock products,4,Algeria,5510,Production,15,Wheat,2018,2018,tonnes,3981219,1.75,6967133.25,,Official data
+QCL,Crops and livestock products,7,Angola,5510,Production,15,Wheat,2018,2018,tonnes,2376,1.75,4158,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,9,Argentina,5510,Production,15,Wheat,2018,2018,tonnes,18518045,1.75,32406578.75,,Official data
+QCL,Crops and livestock products,1,Armenia,5510,Production,15,Wheat,2018,2018,tonnes,187453,1.75,328042.75,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,15,Wheat,2018,2018,tonnes,20941134,1.75,36646984.5,,Official data
+QCL,Crops and livestock products,11,Austria,5510,Production,15,Wheat,2018,2018,tonnes,1367060,1.75,2392355,,Official data
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,15,Wheat,2018,2018,tonnes,1991683,1.75,3485445.25,,Official data
+QCL,Crops and livestock products,16,Bangladesh,5510,Production,15,Wheat,2018,2018,tonnes,1099373,1.75,1923902.75,,Official data
+QCL,Crops and livestock products,57,Belarus,5510,Production,15,Wheat,2018,2018,tonnes,1814765,1.75,3175838.75,,Official data
+QCL,Crops and livestock products,255,Belgium,5510,Production,15,Wheat,2018,2018,tonnes,1661860,1.75,2908255,,Official data
+QCL,Crops and livestock products,18,Bhutan,5510,Production,15,Wheat,2018,2018,tonnes,1445,1.75,2528.75,,Official data
+QCL,Crops and livestock products,19,Bolivia (Plurinational State of),5510,Production,15,Wheat,2018,2018,tonnes,301689,1.75,527955.75,,Official data
+QCL,Crops and livestock products,80,Bosnia and Herzegovina,5510,Production,15,Wheat,2018,2018,tonnes,295810,1.75,517667.5,,Official data
+QCL,Crops and livestock products,20,Botswana,5510,Production,15,Wheat,2018,2018,tonnes,1212,1.75,2121,,Official data
+QCL,Crops and livestock products,21,Brazil,5510,Production,15,Wheat,2018,2018,tonnes,5469236,1.75,9571163,,Official data
+QCL,Crops and livestock products,27,Bulgaria,5510,Production,15,Wheat,2018,2018,tonnes,5954520,1.75,10420410,,Official data
+QCL,Crops and livestock products,29,Burundi,5510,Production,15,Wheat,2018,2018,tonnes,22751,1.75,39814.25,,Official data
+QCL,Crops and livestock products,32,Cameroon,5510,Production,15,Wheat,2018,2018,tonnes,850,1.75,1487.5,F,FAO estimate
+QCL,Crops and livestock products,33,Canada,5510,Production,15,Wheat,2018,2018,tonnes,32201100,1.75,56351925,,Official data
+QCL,Crops and livestock products,39,Chad,5510,Production,15,Wheat,2018,2018,tonnes,1798,1.75,3146.5,,Official data
+QCL,Crops and livestock products,40,Chile,5510,Production,15,Wheat,2018,2018,tonnes,1469003,1.75,2570755.25,,Official data
+QCL,Crops and livestock products,351,China,5510,Production,15,Wheat,2018,2018,tonnes,131446596,1.75,230031543,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,41,"China, mainland",5510,Production,15,Wheat,2018,2018,tonnes,131440500,1.75,230020875,,Official data
+QCL,Crops and livestock products,214,"China, Taiwan Province of",5510,Production,15,Wheat,2018,2018,tonnes,6096,1.75,10668,,Official data
+QCL,Crops and livestock products,44,Colombia,5510,Production,15,Wheat,2018,2018,tonnes,6399,1.75,11198.25,,Official data
+QCL,Crops and livestock products,98,Croatia,5510,Production,15,Wheat,2018,2018,tonnes,753060,1.75,1317855,,Official data
+QCL,Crops and livestock products,50,Cyprus,5510,Production,15,Wheat,2018,2018,tonnes,15330,1.75,26827.5,,Official data
+QCL,Crops and livestock products,167,Czechia,5510,Production,15,Wheat,2018,2018,tonnes,4417840,1.75,7731220,,Official data
+QCL,Crops and livestock products,116,Democratic People's Republic of Korea,5510,Production,15,Wheat,2018,2018,tonnes,35000,1.75,61250,*,Unofficial figure
+QCL,Crops and livestock products,250,Democratic Republic of the Congo,5510,Production,15,Wheat,2018,2018,tonnes,11500,1.75,20125,F,FAO estimate
+QCL,Crops and livestock products,54,Denmark,5510,Production,15,Wheat,2018,2018,tonnes,2623930,1.75,4591877.5,,Official data
+QCL,Crops and livestock products,58,Ecuador,5510,Production,15,Wheat,2018,2018,tonnes,5398,1.75,9446.5,,Official data
+QCL,Crops and livestock products,59,Egypt,5510,Production,15,Wheat,2018,2018,tonnes,8348629,1.75,14610100.75,,Official data
+QCL,Crops and livestock products,178,Eritrea,5510,Production,15,Wheat,2018,2018,tonnes,25000,1.75,43750,*,Unofficial figure
+QCL,Crops and livestock products,63,Estonia,5510,Production,15,Wheat,2018,2018,tonnes,450270,1.75,787972.5,,Official data
+QCL,Crops and livestock products,209,Eswatini,5510,Production,15,Wheat,2018,2018,tonnes,798,1.75,1396.5,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,238,Ethiopia,5510,Production,15,Wheat,2018,2018,tonnes,4838074,1.75,8466629.5,,Official data
+QCL,Crops and livestock products,67,Finland,5510,Production,15,Wheat,2018,2018,tonnes,501600,1.75,877800,,Official data
+QCL,Crops and livestock products,68,France,5510,Production,15,Wheat,2018,2018,tonnes,35424140,1.75,61992245,,Official data
+QCL,Crops and livestock products,73,Georgia,5510,Production,15,Wheat,2018,2018,tonnes,107100,1.75,187425,,Official data
+QCL,Crops and livestock products,79,Germany,5510,Production,15,Wheat,2018,2018,tonnes,20263500,1.75,35461125,,Official data
+QCL,Crops and livestock products,84,Greece,5510,Production,15,Wheat,2018,2018,tonnes,1072940,1.75,1877645,,Official data
+QCL,Crops and livestock products,89,Guatemala,5510,Production,15,Wheat,2018,2018,tonnes,464,1.75,812,,Official data
+QCL,Crops and livestock products,95,Honduras,5510,Production,15,Wheat,2018,2018,tonnes,1242,1.75,2173.5,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,97,Hungary,5510,Production,15,Wheat,2018,2018,tonnes,5258430,1.75,9202252.5,,Official data
+QCL,Crops and livestock products,100,India,5510,Production,15,Wheat,2018,2018,tonnes,99869520,1.75,174771660,,Official data
+QCL,Crops and livestock products,102,Iran (Islamic Republic of),5510,Production,15,Wheat,2018,2018,tonnes,14500000,1.75,25375000,*,Unofficial figure
+QCL,Crops and livestock products,103,Iraq,5510,Production,15,Wheat,2018,2018,tonnes,2177885,1.75,3811298.75,,Official data
+QCL,Crops and livestock products,104,Ireland,5510,Production,15,Wheat,2018,2018,tonnes,485480,1.75,849590,,Official data
+QCL,Crops and livestock products,105,Israel,5510,Production,15,Wheat,2018,2018,tonnes,70500,1.75,123375,,Official data
+QCL,Crops and livestock products,106,Italy,5510,Production,15,Wheat,2018,2018,tonnes,7104650,1.75,12433137.5,,Official data
+QCL,Crops and livestock products,110,Japan,5510,Production,15,Wheat,2018,2018,tonnes,764900,1.75,1338575,,Official data
+QCL,Crops and livestock products,112,Jordan,5510,Production,15,Wheat,2018,2018,tonnes,16389,1.75,28680.75,,Official data
+QCL,Crops and livestock products,108,Kazakhstan,5510,Production,15,Wheat,2018,2018,tonnes,13944108,1.75,24402189,,Official data
+QCL,Crops and livestock products,114,Kenya,5510,Production,15,Wheat,2018,2018,tonnes,336600,1.75,589050,,Official data
+QCL,Crops and livestock products,118,Kuwait,5510,Production,15,Wheat,2018,2018,tonnes,9,1.75,15.75,,Official data
+QCL,Crops and livestock products,113,Kyrgyzstan,5510,Production,15,Wheat,2018,2018,tonnes,615926,1.75,1077870.5,,Official data
+QCL,Crops and livestock products,119,Latvia,5510,Production,15,Wheat,2018,2018,tonnes,1431600,1.75,2505300,,Official data
+QCL,Crops and livestock products,121,Lebanon,5510,Production,15,Wheat,2018,2018,tonnes,130000,1.75,227500,*,Unofficial figure
+QCL,Crops and livestock products,122,Lesotho,5510,Production,15,Wheat,2018,2018,tonnes,9000,1.75,15750,*,Unofficial figure
+QCL,Crops and livestock products,124,Libya,5510,Production,15,Wheat,2018,2018,tonnes,140000,1.75,245000,*,Unofficial figure
+QCL,Crops and livestock products,126,Lithuania,5510,Production,15,Wheat,2018,2018,tonnes,2838900,1.75,4968075,,Official data
+QCL,Crops and livestock products,256,Luxembourg,5510,Production,15,Wheat,2018,2018,tonnes,79650,1.75,139387.5,,Official data
+QCL,Crops and livestock products,129,Madagascar,5510,Production,15,Wheat,2018,2018,tonnes,5000,1.75,8750,*,Unofficial figure
+QCL,Crops and livestock products,130,Malawi,5510,Production,15,Wheat,2018,2018,tonnes,729,1.75,1275.75,,Official data
+QCL,Crops and livestock products,133,Mali,5510,Production,15,Wheat,2018,2018,tonnes,29185,1.75,51073.75,,Official data
+QCL,Crops and livestock products,136,Mauritania,5510,Production,15,Wheat,2018,2018,tonnes,8286,1.75,14500.5,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,138,Mexico,5510,Production,15,Wheat,2018,2018,tonnes,2943445,1.75,5151028.75,,Official data
+QCL,Crops and livestock products,141,Mongolia,5510,Production,15,Wheat,2018,2018,tonnes,436115,1.75,763201.25,,Official data
+QCL,Crops and livestock products,273,Montenegro,5510,Production,15,Wheat,2018,2018,tonnes,2467,1.75,4317.25,,Official data
+QCL,Crops and livestock products,143,Morocco,5510,Production,15,Wheat,2018,2018,tonnes,7320620,1.75,12811085,,Official data
+QCL,Crops and livestock products,144,Mozambique,5510,Production,15,Wheat,2018,2018,tonnes,17060,1.75,29855,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,28,Myanmar,5510,Production,15,Wheat,2018,2018,tonnes,115996,1.75,202993,,Official data
+QCL,Crops and livestock products,147,Namibia,5510,Production,15,Wheat,2018,2018,tonnes,6094,1.75,10664.5,,Official data
+QCL,Crops and livestock products,149,Nepal,5510,Production,15,Wheat,2018,2018,tonnes,1949001,1.75,3410751.75,,Official data
+QCL,Crops and livestock products,150,Netherlands,5510,Production,15,Wheat,2018,2018,tonnes,961920,1.75,1683360,,Official data
+QCL,Crops and livestock products,153,New Caledonia,5510,Production,15,Wheat,2018,2018,tonnes,4,1.75,7,,Official data
+QCL,Crops and livestock products,156,New Zealand,5510,Production,15,Wheat,2018,2018,tonnes,371027,1.75,649297.25,,Official data
+QCL,Crops and livestock products,158,Niger,5510,Production,15,Wheat,2018,2018,tonnes,4807,1.75,8412.25,,Official data
+QCL,Crops and livestock products,159,Nigeria,5510,Production,15,Wheat,2018,2018,tonnes,60000,1.75,105000,*,Unofficial figure
+QCL,Crops and livestock products,154,North Macedonia,5510,Production,15,Wheat,2018,2018,tonnes,241106,1.75,421935.5,,Official data
+QCL,Crops and livestock products,162,Norway,5510,Production,15,Wheat,2018,2018,tonnes,137700,1.75,240975,,Official data
+QCL,Crops and livestock products,221,Oman,5510,Production,15,Wheat,2018,2018,tonnes,3579,1.75,6263.25,,Official data
+QCL,Crops and livestock products,165,Pakistan,5510,Production,15,Wheat,2018,2018,tonnes,25076149,1.75,43883260.75,,Official data
+QCL,Crops and livestock products,299,Palestine,5510,Production,15,Wheat,2018,2018,tonnes,34173,1.75,59802.75,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,169,Paraguay,5510,Production,15,Wheat,2018,2018,tonnes,722400,1.75,1264200,,Official data
+QCL,Crops and livestock products,170,Peru,5510,Production,15,Wheat,2018,2018,tonnes,196012,1.75,343021,,Official data
+QCL,Crops and livestock products,173,Poland,5510,Production,15,Wheat,2018,2018,tonnes,9637620,1.75,16865835,,Official data
+QCL,Crops and livestock products,174,Portugal,5510,Production,15,Wheat,2018,2018,tonnes,70110,1.75,122692.5,,Official data
+QCL,Crops and livestock products,179,Qatar,5510,Production,15,Wheat,2018,2018,tonnes,15,1.75,26.25,,Official data
+QCL,Crops and livestock products,117,Republic of Korea,5510,Production,15,Wheat,2018,2018,tonnes,25788,1.75,45129,,Official data
+QCL,Crops and livestock products,146,Republic of Moldova,5510,Production,15,Wheat,2018,2018,tonnes,1162778,1.75,2034861.5,,Official data
+QCL,Crops and livestock products,183,Romania,5510,Production,15,Wheat,2018,2018,tonnes,10143670,1.75,17751422.5,,Official data
+QCL,Crops and livestock products,185,Russian Federation,5510,Production,15,Wheat,2018,2018,tonnes,72136149,1.75,126238260.8,,Official data
+QCL,Crops and livestock products,184,Rwanda,5510,Production,15,Wheat,2018,2018,tonnes,10875,1.75,19031.25,,Official data
+QCL,Crops and livestock products,194,Saudi Arabia,5510,Production,15,Wheat,2018,2018,tonnes,517910,1.75,906342.5,,Official data
+QCL,Crops and livestock products,272,Serbia,5510,Production,15,Wheat,2018,2018,tonnes,2941601,1.75,5147801.75,,Official data
+QCL,Crops and livestock products,199,Slovakia,5510,Production,15,Wheat,2018,2018,tonnes,1927930,1.75,3373877.5,,Official data
+QCL,Crops and livestock products,198,Slovenia,5510,Production,15,Wheat,2018,2018,tonnes,121900,1.75,213325,,Official data
+QCL,Crops and livestock products,201,Somalia,5510,Production,15,Wheat,2018,2018,tonnes,1036,1.75,1813,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,202,South Africa,5510,Production,15,Wheat,2018,2018,tonnes,1868000,1.75,3269000,,Official data
+QCL,Crops and livestock products,203,Spain,5510,Production,15,Wheat,2018,2018,tonnes,8322510,1.75,14564392.5,,Official data
+QCL,Crops and livestock products,276,Sudan,5510,Production,15,Wheat,2018,2018,tonnes,702000,1.75,1228500,,Official data
+QCL,Crops and livestock products,210,Sweden,5510,Production,15,Wheat,2018,2018,tonnes,1620300,1.75,2835525,,Official data
+QCL,Crops and livestock products,211,Switzerland,5510,Production,15,Wheat,2018,2018,tonnes,497250,1.75,870187.5,,Official data
+QCL,Crops and livestock products,212,Syrian Arab Republic,5510,Production,15,Wheat,2018,2018,tonnes,1222988,1.75,2140229,,Official data
+QCL,Crops and livestock products,208,Tajikistan,5510,Production,15,Wheat,2018,2018,tonnes,778986,1.75,1363225.5,,Official data
+QCL,Crops and livestock products,216,Thailand,5510,Production,15,Wheat,2018,2018,tonnes,1332,1.75,2331,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,222,Tunisia,5510,Production,15,Wheat,2018,2018,tonnes,1075400,1.75,1881950,,Official data
+QCL,Crops and livestock products,223,Turkey,5510,Production,15,Wheat,2018,2018,tonnes,20000000,1.75,35000000,,Official data
+QCL,Crops and livestock products,213,Turkmenistan,5510,Production,15,Wheat,2018,2018,tonnes,1000000,1.75,1750000,*,Unofficial figure
+QCL,Crops and livestock products,226,Uganda,5510,Production,15,Wheat,2018,2018,tonnes,23206,1.75,40610.5,,Official data
+QCL,Crops and livestock products,230,Ukraine,5510,Production,15,Wheat,2018,2018,tonnes,24652840,1.75,43142470,,Official data
+QCL,Crops and livestock products,229,United Kingdom of Great Britain and Northern Ireland,5510,Production,15,Wheat,2018,2018,tonnes,13555000,1.75,23721250,,Official data
+QCL,Crops and livestock products,215,United Republic of Tanzania,5510,Production,15,Wheat,2018,2018,tonnes,56651,1.75,99139.25,,Official data
+QCL,Crops and livestock products,231,United States of America,5510,Production,15,Wheat,2018,2018,tonnes,51305540,1.75,89784695,,Official data
+QCL,Crops and livestock products,234,Uruguay,5510,Production,15,Wheat,2018,2018,tonnes,440000,1.75,770000,,Official data
+QCL,Crops and livestock products,235,Uzbekistan,5510,Production,15,Wheat,2018,2018,tonnes,5410760,1.75,9468830,,Official data
+QCL,Crops and livestock products,236,Venezuela (Bolivarian Republic of),5510,Production,15,Wheat,2018,2018,tonnes,1151,1.75,2014.25,,Official data
+QCL,Crops and livestock products,249,Yemen,5510,Production,15,Wheat,2018,2018,tonnes,92210,1.75,161367.5,,Official data
+QCL,Crops and livestock products,251,Zambia,5510,Production,15,Wheat,2018,2018,tonnes,114463,1.75,200310.25,,Official data
+QCL,Crops and livestock products,181,Zimbabwe,5510,Production,15,Wheat,2018,2018,tonnes,45000,1.75,78750,F,FAO estimate

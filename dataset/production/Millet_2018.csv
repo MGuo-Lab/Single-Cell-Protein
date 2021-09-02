@@ -1,0 +1,80 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code (FAO),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QCL,Crops and livestock products,2,Afghanistan,5510,Production,79,Millet,2018,2018,tonnes,4900,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,7,Angola,5510,Production,79,Millet,2018,2018,tonnes,69854,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,9,Argentina,5510,Production,79,Millet,2018,2018,tonnes,2254,,Official data
+QCL,Crops and livestock products,10,Australia,5510,Production,79,Millet,2018,2018,tonnes,36276,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,52,Azerbaijan,5510,Production,79,Millet,2018,2018,tonnes,2792,,Official data
+QCL,Crops and livestock products,12,Bahamas,5510,Production,79,Millet,2018,2018,tonnes,,M,Data not available
+QCL,Crops and livestock products,16,Bangladesh,5510,Production,79,Millet,2018,2018,tonnes,7811,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,57,Belarus,5510,Production,79,Millet,2018,2018,tonnes,19890,,Official data
+QCL,Crops and livestock products,53,Benin,5510,Production,79,Millet,2018,2018,tonnes,26143,,Official data
+QCL,Crops and livestock products,18,Bhutan,5510,Production,79,Millet,2018,2018,tonnes,1071,,Official data
+QCL,Crops and livestock products,20,Botswana,5510,Production,79,Millet,2018,2018,tonnes,2462,,Official data
+QCL,Crops and livestock products,233,Burkina Faso,5510,Production,79,Millet,2018,2018,tonnes,1189079,,Official data
+QCL,Crops and livestock products,29,Burundi,5510,Production,79,Millet,2018,2018,tonnes,9891,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,32,Cameroon,5510,Production,79,Millet,2018,2018,tonnes,103186,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,37,Central African Republic,5510,Production,79,Millet,2018,2018,tonnes,10000,*,Unofficial figure
+QCL,Crops and livestock products,39,Chad,5510,Production,79,Millet,2018,2018,tonnes,756616,,Official data
+QCL,Crops and livestock products,351,China,5510,Production,79,Millet,2018,2018,tonnes,2342196,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QCL,Crops and livestock products,41,"China, mainland",5510,Production,79,Millet,2018,2018,tonnes,2341800,,Official data
+QCL,Crops and livestock products,214,"China, Taiwan Province of",5510,Production,79,Millet,2018,2018,tonnes,396,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,46,Congo,5510,Production,79,Millet,2018,2018,tonnes,14197,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,107,Côte d'Ivoire,5510,Production,79,Millet,2018,2018,tonnes,65000,*,Unofficial figure
+QCL,Crops and livestock products,116,Democratic People's Republic of Korea,5510,Production,79,Millet,2018,2018,tonnes,72657,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,250,Democratic Republic of the Congo,5510,Production,79,Millet,2018,2018,tonnes,40908,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,178,Eritrea,5510,Production,79,Millet,2018,2018,tonnes,25000,*,Unofficial figure
+QCL,Crops and livestock products,238,Ethiopia,5510,Production,79,Millet,2018,2018,tonnes,1035630,,Official data
+QCL,Crops and livestock products,75,Gambia,5510,Production,79,Millet,2018,2018,tonnes,38000,*,Unofficial figure
+QCL,Crops and livestock products,81,Ghana,5510,Production,79,Millet,2018,2018,tonnes,181564,,Official data
+QCL,Crops and livestock products,90,Guinea,5510,Production,79,Millet,2018,2018,tonnes,214747,,Official data
+QCL,Crops and livestock products,175,Guinea-Bissau,5510,Production,79,Millet,2018,2018,tonnes,18000,*,Unofficial figure
+QCL,Crops and livestock products,100,India,5510,Production,79,Millet,2018,2018,tonnes,11633080,,Official data
+QCL,Crops and livestock products,102,Iran (Islamic Republic of),5510,Production,79,Millet,2018,2018,tonnes,18877,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,103,Iraq,5510,Production,79,Millet,2018,2018,tonnes,880,,Official data
+QCL,Crops and livestock products,110,Japan,5510,Production,79,Millet,2018,2018,tonnes,216,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,112,Jordan,5510,Production,79,Millet,2018,2018,tonnes,24,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,108,Kazakhstan,5510,Production,79,Millet,2018,2018,tonnes,40237,,Official data
+QCL,Crops and livestock products,114,Kenya,5510,Production,79,Millet,2018,2018,tonnes,72000,,Official data
+QCL,Crops and livestock products,113,Kyrgyzstan,5510,Production,79,Millet,2018,2018,tonnes,86,,Official data
+QCL,Crops and livestock products,124,Libya,5510,Production,79,Millet,2018,2018,tonnes,6000,*,Unofficial figure
+QCL,Crops and livestock products,130,Malawi,5510,Production,79,Millet,2018,2018,tonnes,31315,,Official data
+QCL,Crops and livestock products,132,Maldives,5510,Production,79,Millet,2018,2018,tonnes,5,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,133,Mali,5510,Production,79,Millet,2018,2018,tonnes,1840321,,Official data
+QCL,Crops and livestock products,136,Mauritania,5510,Production,79,Millet,2018,2018,tonnes,3247,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,138,Mexico,5510,Production,79,Millet,2018,2018,tonnes,221,,Official data
+QCL,Crops and livestock products,143,Morocco,5510,Production,79,Millet,2018,2018,tonnes,4104,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,144,Mozambique,5510,Production,79,Millet,2018,2018,tonnes,19869,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,28,Myanmar,5510,Production,79,Millet,2018,2018,tonnes,167372,,Official data
+QCL,Crops and livestock products,147,Namibia,5510,Production,79,Millet,2018,2018,tonnes,83515,,Official data
+QCL,Crops and livestock products,149,Nepal,5510,Production,79,Millet,2018,2018,tonnes,313987,,Official data
+QCL,Crops and livestock products,158,Niger,5510,Production,79,Millet,2018,2018,tonnes,3856344,,Official data
+QCL,Crops and livestock products,159,Nigeria,5510,Production,79,Millet,2018,2018,tonnes,2119000,*,Unofficial figure
+QCL,Crops and livestock products,154,North Macedonia,5510,Production,79,Millet,2018,2018,tonnes,38,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,165,Pakistan,5510,Production,79,Millet,2018,2018,tonnes,350010,,Official data
+QCL,Crops and livestock products,117,Republic of Korea,5510,Production,79,Millet,2018,2018,tonnes,1334,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,146,Republic of Moldova,5510,Production,79,Millet,2018,2018,tonnes,12,,Official data
+QCL,Crops and livestock products,185,Russian Federation,5510,Production,79,Millet,2018,2018,tonnes,217200,,Official data
+QCL,Crops and livestock products,184,Rwanda,5510,Production,79,Millet,2018,2018,tonnes,5140,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,194,Saudi Arabia,5510,Production,79,Millet,2018,2018,tonnes,8634,,Official data
+QCL,Crops and livestock products,195,Senegal,5510,Production,79,Millet,2018,2018,tonnes,897574,,Official data
+QCL,Crops and livestock products,272,Serbia,5510,Production,79,Millet,2018,2018,tonnes,90,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,197,Sierra Leone,5510,Production,79,Millet,2018,2018,tonnes,38000,*,Unofficial figure
+QCL,Crops and livestock products,202,South Africa,5510,Production,79,Millet,2018,2018,tonnes,5424,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,277,South Sudan,5510,Production,79,Millet,2018,2018,tonnes,5000,*,Unofficial figure
+QCL,Crops and livestock products,38,Sri Lanka,5510,Production,79,Millet,2018,2018,tonnes,57,,Official data
+QCL,Crops and livestock products,276,Sudan,5510,Production,79,Millet,2018,2018,tonnes,2647000,,Official data
+QCL,Crops and livestock products,211,Switzerland,5510,Production,79,Millet,2018,2018,tonnes,934,,Official data
+QCL,Crops and livestock products,212,Syrian Arab Republic,5510,Production,79,Millet,2018,2018,tonnes,3345,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,208,Tajikistan,5510,Production,79,Millet,2018,2018,tonnes,78,,Official data
+QCL,Crops and livestock products,217,Togo,5510,Production,79,Millet,2018,2018,tonnes,26082,,Official data
+QCL,Crops and livestock products,223,Turkey,5510,Production,79,Millet,2018,2018,tonnes,4397,,Official data
+QCL,Crops and livestock products,213,Turkmenistan,5510,Production,79,Millet,2018,2018,tonnes,,M,Data not available
+QCL,Crops and livestock products,226,Uganda,5510,Production,79,Millet,2018,2018,tonnes,238558,,Official data
+QCL,Crops and livestock products,230,Ukraine,5510,Production,79,Millet,2018,2018,tonnes,80460,,Official data
+QCL,Crops and livestock products,215,United Republic of Tanzania,5510,Production,79,Millet,2018,2018,tonnes,316194,,Official data
+QCL,Crops and livestock products,231,United States of America,5510,Production,79,Millet,2018,2018,tonnes,262970,,Official data
+QCL,Crops and livestock products,235,Uzbekistan,5510,Production,79,Millet,2018,2018,tonnes,6764,Im,FAO data based on imputation methodology
+QCL,Crops and livestock products,237,Viet Nam,5510,Production,79,Millet,2018,2018,tonnes,3370,,Official data
+QCL,Crops and livestock products,249,Yemen,5510,Production,79,Millet,2018,2018,tonnes,43390,,Official data
+QCL,Crops and livestock products,251,Zambia,5510,Production,79,Millet,2018,2018,tonnes,32278,,Official data
+QCL,Crops and livestock products,181,Zimbabwe,5510,Production,79,Millet,2018,2018,tonnes,38964,,Official data

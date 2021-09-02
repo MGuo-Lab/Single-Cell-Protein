@@ -1,0 +1,179 @@
+OBJECTID,temperature_mean,temperature_median,temperature_max,temperature_min,FORMAL_EN,NAME_EN,Country Code,temperature_mean_Maize,temperature_mean_Rice,temperature_mean_Sorghum,temperature_mean_Wheat
+1,26.23812808,26.88,30.82,15.2,Republic of Indonesia,Indonesia,101,26.88,26.88,26.88,26.88
+2,25.73752381,26.19,28.62,21.06,Malaysia,Malaysia,131,26.19,26.19,26.19,26.19
+3,6.986746575,6.575,28.51,-11.78,Republic of Chile,Chile,40,6.575,6.575,6.575,6.575
+4,20.84082192,25.36,32.75,-12.02,Plurinational State of Bolivia,Bolivia,19,25.36,25.36,25.36,25.36
+5,20.82443925,24.855,37.17,0.07,Republic of Peru,Peru,170,24.855,24.855,24.855,24.855
+6,13.91282918,15.82,26.93,-10.92,Argentine Republic,Argentina,9,15.82,15.82,15.82,15.82
+7,20.4775,20.59,21.49,19.24,Republic of Cyprus,Cyprus,50,20.59,20.59,20.59,20.59
+8,24.56567766,26.4,33.75,-20.39,Republic of India,India,100,26.4,26.4,26.4,26.4
+9,7.235734174,7.38,27.59,-22.67,People's Republic of China,People's Republic of China,351,6.58,16.49,15.24,15.46
+10,22.96857143,22.8,24.56,21.69,State of Israel,Israel,105,22.8,22.8,22.8,22.8
+11,22.35333333,21.62,24.09,21.35,West Bank and Gaza,Palestine,299,21.62,21.62,21.62,21.62
+12,18.1675,18.87,21.37,13.56,Lebanese Republic,Lebanon,121,18.87,18.87,18.87,18.87
+13,23.90057221,24.22,34.8,9.94,Federal Democratic Republic of Ethiopia,Ethiopia,238,24.22,24.22,24.22,24.22
+15,29.37497653,29.14,37.17,23.53,Federal Republic of Somalia,Somalia,201,29.14,29.14,29.14,29.14
+16,25.46026738,25.65,35.39,13.4,Republic of Kenya,Kenya,114,25.65,25.65,25.65,25.65
+17,20.54626168,24.31,29.97,-19.22,Islamic Republic of Pakistan,Pakistan,165,24.31,24.31,24.31,24.31
+18,23.16307692,23.9,29.68,17.05,Republic of Malawi,Malawi,130,23.9,23.9,23.9,23.9
+19,22.58366337,22.55,27.03,16.25,United Republic of Tanzania,Tanzania,215,22.55,22.55,22.55,22.55
+20,19.87616438,19.67,23.95,14.45,Syrian Arab Republic,Syria,212,19.67,19.67,19.67,19.67
+21,13.84141844,12.72,26.35,4.34,French Republic,France,68,12.72,12.72,12.72,12.72
+22,25.93458333,25.875,27.81,23.69,Republic of Suriname,Suriname,207,25.875,25.875,25.875,25.875
+23,27.1438806,26.83,32.12,20.08,Co-operative Republic of Guyana,Guyana,91,26.83,26.83,26.83,26.83
+24,12.29170732,12.19,17.35,9.56,Republic of Korea,South Korea,117,12.19,12.19,12.19,12.19
+25,6.781276596,7.69,11.53,-0.82,Democratic People's Republic of Korea,North Korea,116,7.69,7.69,7.69,7.69
+26,16.45864198,17.085,23.76,6.96,Kingdom of Morocco,Morocco,143,17.085,17.085,17.085,17.085
+27,24.006,24.39,26.95,18.06,Republic of Costa Rica,Costa Rica,48,24.39,24.39,24.39,24.39
+28,25.18042553,25.18,27.66,22.18,Republic of Nicaragua,Nicaragua,157,25.18,25.18,25.18,25.18
+29,25.32754545,25.32,27.3,23.2,Republic of the Congo,Republic of the Congo,46,25.32,25.32,25.32,25.32
+30,25.03473203,25.2,28.03,14.95,Democratic Republic of the Congo,Democratic Republic of the Congo,250,25.2,25.2,25.2,25.2
+31,2.920769231,1.64,16.88,-9.93,Kingdom of Bhutan,Bhutan,18,1.64,1.64,1.64,1.64
+32,10.07312081,9.655,13.74,6.99,Ukraine,Ukraine,230,9.655,9.655,9.655,9.655
+33,8.351666667,8.26,9.85,7,Republic of Belarus,Belarus,57,8.26,8.26,8.26,8.26
+34,20.18964789,20.205,25.04,13.77,Republic of Namibia,Namibia,147,20.205,20.205,20.205,20.205
+35,18.01660754,17.97,26.45,10.23,Republic of South Africa,South Africa,202,17.97,17.97,17.97,17.97
+38,26.78045045,26.88,29.37,21.86,Sultanate of Oman,Oman,221,26.88,26.88,26.88,26.88
+39,13.64489247,14.02,20.99,0.95,Republic of Uzbekistan,Uzbekistan,235,14.02,14.02,14.02,14.02
+40,6.377426192,6.1,16.32,-17.02,Republic of Kazakhstan,Kazakhstan,108,6.1,6.1,6.1,6.1
+41,0.327368421,-1.56,19.55,-13.3,Republic of Tajikistan,Tajikistan,208,-1.56,-1.56,-1.56,-1.56
+42,8.274210526,8.355,8.87,7.36,Republic of Lithuania,Lithuania,126,8.355,8.355,8.355,8.355
+43,25.69735336,26.475,33.57,14.81,Federative Republic of Brazil,Brazil,21,23.7,28.08,19.53,17.27
+44,17.911,17.855,19.52,16.88,Oriental Republic of Uruguay,Uruguay,234,17.855,17.855,17.855,17.855
+45,0.741538462,0.76,8.94,-8.7,Mongolia,Mongolia,141,0.76,0.76,0.76,0.76
+46,-4.156959309,-4.45,14.75,-17.18,Russian Federation,Russia,185,-4.45,-4.45,-4.45,-4.45
+47,9.912368421,9.83,12.13,8.2,Czech Republic,Czech Republic,167,9.83,9.83,9.83,9.83
+48,10.77227513,10.83,12.65,6.55,Federal Republic of Germany,Germany,79,10.83,10.83,10.83,10.83
+49,7.043076923,7.02,7.9,6.42,Republic of Estonia,Estonia,63,7.02,7.02,7.02,7.02
+50,7.626285714,7.55,8.74,6.76,Republic of Latvia,Latvia,119,7.55,7.55,7.55,7.55
+51,0.961805158,0.48,8.98,-6.41,Kingdom of Norway,Norway,162,0.48,0.48,0.48,0.48
+52,3.429645161,3.1,10.1,-5.7,Kingdom of Sweden,Sweden,210,3.1,3.1,3.1,3.1
+53,3.539311741,4.16,8.72,-1.93,Republic of Finland,Finland,67,4.16,4.16,4.16,4.16
+54,24.58736842,24.345,28.62,19.54,Socialist Republic of Vietnam,Vietnam,237,24.345,24.345,24.345,24.345
+55,27.42793651,27.68,28.52,25.05,Kingdom of Cambodia,Cambodia,115,27.68,27.68,27.68,27.68
+56,9.85,9.85,9.85,9.85,Grand Duchy of Luxembourg,Luxembourg,256,9.85,9.85,9.85,9.85
+57,29.77478261,29.87,31.15,27.55,United Arab Emirates,United Arab Emirates,225,29.87,29.87,29.87,29.87
+58,11.17352941,11.36,12.37,9.35,Kingdom of Belgium,Belgium,255,11.36,11.36,11.36,11.36
+59,10.86933333,9.88,18.67,2.94,Georgia,Georgia,73,9.88,9.88,9.88,9.88
+60,11.60818182,11.33,15.25,8.93,Former Yugoslav Republic of Macedonia,Republic of Macedonia,154,11.33,11.33,11.33,11.33
+61,13.35416667,11.925,17.65,10.01,Republic of Albania,Albania,3,11.925,11.925,11.925,11.925
+62,14.86555556,15.295,19.9,6.51,Republic of Azerbaijan,Azerbaijan,52,15.295,15.295,15.295,15.295
+64,13.20418462,13.15,22.61,3.65,Republic of Turkey,Turkey,223,13.15,13.15,13.15,13.15
+65,14.28824885,14.14,24.53,7.75,Kingdom of Spain,Spain,203,14.14,14.14,14.14,14.14
+66,23.96106667,23.71,27.76,20.57,Lao People's Democratic Republic,Laos,120,23.71,23.71,23.71,23.71
+67,0.626395349,0.525,11.92,-11.9,Kyrgyz Republic,Kyrgyzstan,113,0.525,0.525,0.525,0.525
+68,10.17538462,9.91,14.74,6.13,Republic of Armenia,Armenia,1,9.91,9.91,9.91,9.91
+69,9.799655172,9.77,10.58,9.06,Kingdom of Denmark,Denmark,54,9.77,9.77,9.77,9.77
+70,24.00087838,24.38,26.99,18.95,Libya,Libya,124,24.38,24.38,24.38,24.38
+71,20.80440678,21.12,24.97,13.9,Republic of Tunisia,Tunisia,222,21.12,21.12,21.12,21.12
+72,11.08209091,11.7,14.78,4.47,Romania,Romania,183,11.7,11.7,11.7,11.7
+73,12.41511111,12.45,13.19,11.14,Republic of Hungary,Hungary,97,12.45,12.45,12.45,12.45
+74,10.4632,11.75,13.23,5.36,Slovak Republic,Slovakia,199,11.75,11.75,11.75,11.75
+75,10.25636364,10.07,13.55,8.1,Republic of Poland,Poland,173,10.07,10.07,10.07,10.07
+76,9.858461538,9.88,11.03,8.85,Ireland,Ireland,104,9.88,9.88,9.88,9.88
+77,9.297941176,9.48,11.83,5.7,United Kingdom of Great Britain and Northern Ireland,United Kingdom,229,9.48,9.48,9.48,9.48
+78,15.48769231,16.075,20.07,9.02,Hellenic Republic,Greece,84,16.075,16.075,16.075,16.075
+79,22.89449799,23.03,25.68,18.3,Republic of Zambia,Zambia,251,23.03,23.03,23.03,23.03
+80,27.9584,28.23,29.48,25.62,Republic of Sierra Leone,Sierra Leone,197,28.23,28.23,28.23,28.23
+81,26.22205128,26.33,28.22,22.78,Republic of Guinea,Guinea,90,26.33,26.33,26.33,26.33
+82,26.84290323,26.8,28.65,25.59,Republic of Liberia,Liberia,123,26.8,26.8,26.8,26.8
+83,25.21458537,25.23,28.29,21.42,Central African Republic,Central African Republic,37,25.23,25.23,25.23,25.23
+84,28.97484076,28.865,33.37,20.55,Republic of the Sudan,Sudan,276,28.865,28.865,28.865,28.865
+85,34.59,34.52,36.34,33.66,Republic of Djibouti,Djibouti,72,34.52,34.52,34.52,34.52
+86,28.91512821,29.25,36.18,20.16,State of Eritrea,Eritrea,178,29.25,29.25,29.25,29.25
+87,7.474871795,7.18,12.37,1.4,Republic of Austria,Austria,11,7.18,7.18,7.18,7.18
+88,23.53335294,23.98,28.37,8.65,Republic of Iraq,Iraq,103,23.98,23.98,23.98,23.98
+89,13.85923664,15.1,21.13,-1.5,Italian Republic,Italy,106,15.1,15.1,15.1,15.1
+90,6.181176471,7.18,12.78,-1.19,Swiss Confederation,Switzerland,211,7.18,7.18,7.18,7.18
+91,17.29795491,17.28,29.17,6.3,Islamic Republic of Iran,Iran,102,17.28,17.28,17.28,17.28
+93,27.06781818,27.125,28.53,24.8,Republic of Ivory Coast,Ivory Coast,,27.125,27.125,27.125,27.125
+94,12.11645161,12.19,15.07,8.01,Republic of Serbia,Serbia,272,12.19,12.19,12.19,12.19
+95,29.37660422,29.55,32.56,26.57,Republic of Mali,Mali,133,29.55,29.55,29.55,29.55
+96,28.68268657,28.72,31.43,25.82,Republic of Senegal,Senegal,195,28.72,28.72,28.72,28.72
+97,27.4257,27.645,30.2,19.38,Federal Republic of Nigeria,Nigeria,159,27.645,27.645,27.645,27.645
+98,27.93102564,27.95,29.57,26.46,Republic of Benin,Benin,53,27.95,27.95,27.95,27.95
+99,23.57709135,23.705,27.65,18.71,People's Republic of Angola,Angola,7,23.705,23.705,23.705,23.705
+100,12.66115385,12.365,15.97,10.15,Republic of Croatia,Croatia,98,12.365,12.365,12.365,12.365
+101,10.67444444,11.38,11.97,5.83,Republic of Slovenia,Slovenia,198,11.38,11.38,11.38,11.38
+102,28.83,28.89,28.97,28.63,State of Qatar,Qatar,179,28.89,28.89,28.89,28.89
+103,26.66559297,26.85,33.86,17.23,Kingdom of Saudi Arabia,Saudi Arabia,194,26.85,26.85,26.85,26.85
+104,23.13502439,23.35,25.45,20.6,Republic of Botswana,Botswana,20,23.35,23.35,23.35,23.35
+105,21.67496296,21.54,25.85,17.38,Republic of Zimbabwe,Zimbabwe,181,21.54,21.54,21.54,21.54
+106,12.13163265,12.85,16.67,5.25,Republic of Bulgaria,Bulgaria,27,12.85,12.85,12.85,12.85
+107,26.9605814,27.3,29.25,22.6,Kingdom of Thailand,Thailand,216,27.3,27.3,27.3,27.3
+109,25.96769231,26.12,27.46,24.3,Republic of Haiti,Haiti,93,26.12,26.12,26.12,26.12
+110,25.501875,26.025,27.37,21.75,Dominican Republic,Dominican Republic,56,26.025,26.025,26.025,26.025
+111,27.89830233,28.44,30.62,17.38,Republic of Chad,Chad,39,28.44,28.44,28.44,28.44
+112,27.835,27.855,28.65,26.73,State of Kuwait,Kuwait,118,27.855,27.855,27.855,27.855
+113,25.50375,25.34,28.3,22.52,Republic of El Salvador,El Salvador,60,25.34,25.34,25.34,25.34
+114,23.19205128,24.19,31.56,15.87,Republic of Guatemala,Guatemala,89,24.19,24.19,24.19,24.19
+115,26.30333333,26.205,27.33,25.63,Democratic Republic of Timor-Leste,East Timor,176,26.205,26.205,26.205,26.205
+116,25.27,25.27,26.11,24.43,Negara Brunei Darussalam,Brunei,,25.27,25.27,25.27,25.27
+118,23.83146199,25.15,29.87,10.59,People's Democratic Republic of Algeria,Algeria,4,25.15,25.15,25.15,25.15
+119,25.5987218,25.91,29.75,19.66,Republic of Mozambique,Mozambique,144,25.91,25.91,25.91,25.91
+120,21.358,22.05,23.41,18.75,Kingdom of eSwatini,eSwatini,209,22.05,22.05,22.05,22.05
+121,20.374,20.645,22.84,17.71,Republic of Burundi,Burundi,29,20.645,20.645,20.645,20.645
+122,20.071,20.1,21.92,17.83,Republic of Rwanda,Rwanda,184,20.1,20.1,20.1,20.1
+123,24.73030303,26.03,33.1,6.96,Republic of the Union of Myanmar,Myanmar,28,26.03,26.03,26.03,26.03
+124,25.7587234,26.02,27.05,22.9,People's Republic of Bangladesh,Bangladesh,16,26.02,26.02,26.02,26.02
+126,12.99296443,13.87,26.8,-11.47,Islamic State of Afghanistan,Afghanistan,2,13.87,13.87,13.87,13.87
+127,10.59333333,9.22,17.3,7.99,Montenegro,Montenegro,273,9.22,9.22,9.22,9.22
+128,11.12791667,10.68,15.13,8.95,Bosnia and Herzegovina,Bosnia and Herzegovina,80,10.68,10.68,10.68,10.68
+129,24.7512987,24.7,27.85,15.91,Republic of Uganda,Uganda,226,24.7,24.7,24.7,24.7
+131,25.60717949,25.49,27.1,24.27,Republic of Cuba,Cuba,49,25.49,25.49,25.49,25.49
+132,23.10885714,22.76,26.75,20.29,Republic of Honduras,Honduras,95,22.76,22.76,22.76,22.76
+133,23.00588235,24.95,30.2,10.09,Republic of Ecuador,Ecuador,58,24.95,24.95,24.95,24.95
+134,27.20653226,27,54.23,7.27,Republic of Colombia,Colombia,44,27,27,27,27
+135,24.11176056,24.435,27.17,21.73,Republic of Paraguay,Paraguay,169,24.435,24.435,24.435,24.435
+136,16.14292683,16.73,23.78,11.62,Portuguese Republic,Portugal,174,16.73,16.73,16.73,16.73
+137,11.686,11.58,12.25,10.99,Republic of Moldova,Moldova,146,11.58,11.58,11.58,11.58
+138,17.09757732,17.34,19.82,9.74,Turkmenistan,Turkmenistan,213,17.34,17.34,17.34,17.34
+139,19.81333333,19.54,23.01,17.8,Hashemite Kingdom of Jordan,Jordan,112,19.54,19.54,19.54,19.54
+140,13.10679245,14.52,28,-8.4,Nepal,Nepal,149,14.52,14.52,14.52,14.52
+141,10.635,10.39,13.42,8.72,Kingdom of Lesotho,Lesotho,122,10.39,10.39,10.39,10.39
+142,25.03406667,24.475,29.86,19.67,Republic of Cameroon,Cameroon,32,24.475,24.475,24.475,24.475
+143,25.51178571,25.22,27.61,23.27,Gabonese Republic,Gabon,74,25.22,25.22,25.22,25.22
+144,28.56188119,28.71,31.05,23.97,Republic of Niger,Niger,158,28.71,28.71,28.71,28.71
+145,28.9605814,29.035,30.55,27.19,Burkina Faso,Burkina Faso,233,29.035,29.035,29.035,29.035
+146,27.38166667,27.3,28.9,26.04,Togolese Republic,Togo,217,27.3,27.3,27.3,27.3
+147,27.64246753,27.72,28.8,26.45,Republic of Ghana,Ghana,81,27.72,27.72,27.72,27.72
+148,27.63545455,27.63,28.18,27.21,Republic of Guinea-Bissau,Guinea-Bissau,175,27.63,27.63,27.63,27.63
+150,8.186168393,8.45,25.81,-14.6,United States of America,United States of America,231,7.46,18.7,16.73,5.11
+151,-5.96466933,-5.25,11.2,-23.82,Canada,Canada,33,3.47,-5.25,-5.25,-3.9
+152,21.74832386,22.04,35.3,9.39,United Mexican States,Mexico,138,22.04,22.04,22.04,22.04
+153,25.72833333,25.925,27.58,22.74,Belize,Belize,23,25.925,25.925,25.925,25.925
+154,25.92541667,26.135,28.07,20.5,Republic of Panama,Panama,166,26.135,26.135,26.135,26.135
+155,24.62155932,25.22,28.76,10.47,Bolivarian Republic of Venezuela,Venezuela,236,25.22,25.22,25.22,25.22
+156,27.97583893,28.44,36.65,17.9,Independent State of Papua New Guinea,Papua New Guinea,168,28.44,28.44,28.44,28.44
+157,24.56889197,24.18,29.85,20.36,Arab Republic of Egypt,Egypt,59,24.18,24.18,24.18,24.18
+158,25.37384615,24.455,37.71,17.97,Republic of Yemen,Yemen,249,24.455,24.455,24.455,24.455
+159,28.21304469,28.29,32.9,21.45,Islamic Republic of Mauritania,Mauritania,136,28.29,28.29,28.29,28.29
+160,25.65333333,25.33,27.61,24.26,Republic of Equatorial Guinea,Equatorial Guinea,61,25.33,25.33,25.33,25.33
+161,27.72666667,27.3,28.99,26.89,Republic of the Gambia,The Gambia,75,27.3,27.3,27.3,27.3
+162,23.82,23.82,23.82,23.82,"Hong Kong Special Administrative Region, PRC",Hong Kong,96,23.82,23.82,23.82,23.82
+164,22.16661516,22.58,29.06,8.72,Commonwealth of Australia,Australia,10,24.7,16.15,20.28,16.9
+165,-15.33711262,-16.625,1.38,-24.6,Greenland,Greenland,85,-16.625,-16.625,-16.625,-16.625
+166,24.1975,24.125,25.11,23.43,Republic of Fiji,Fiji,66,24.125,24.125,24.125,24.125
+167,21.73833333,21.36,23.75,20.87,New Caledonia,New Caledonia,153,21.36,21.36,21.36,21.36
+168,20.84241206,21.15,27.6,12.85,Republic of Madagascar,Madagascar,129,21.15,21.15,21.15,21.15
+169,25.759,26.175,29.18,19.13,Republic of the Philippines,Philippines,171,26.175,26.175,26.175,26.175
+170,29.03772727,29.565,30.62,24.84,Democratic Socialist Republic of Sri Lanka,Sri Lanka,38,29.565,29.565,29.565,29.565
+173,26.345,26.305,26.67,26.1,Commonwealth of the Bahamas,The Bahamas,12,26.305,26.305,26.305,26.305
+175,12.5158125,12.905,23.37,2.69,Japan,Japan,110,12.905,12.905,12.905,12.905
+177,2.549324324,2.745,5.53,-1.7,Republic of Iceland,Iceland,99,2.745,2.745,2.745,2.745
+184,26.735,26.735,27.04,26.43,Republic of Trinidad and Tobago,Trinidad and Tobago,220,26.735,26.735,26.735,26.735
+186,26.41,26.41,26.41,26.41,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,191,26.41,26.41,26.41,26.41
+193,27.83,27.83,27.83,27.83,Virgin Islands of the United States,United States Virgin Islands,240,27.83,27.83,27.83,27.83
+195,25.73,25.25,27.25,24.69,Commonwealth of Puerto Rico,Puerto Rico,177,25.25,25.25,25.25,25.25
+198,28.148,27.8,29.84,26.5,Jamaica,Jamaica,109,27.8,27.8,27.8,27.8
+203,23.13,23.13,23.13,23.13,Republic of Mauritius,Mauritius,137,23.13,23.13,23.13,23.13
+204,24.21,24.21,24.21,24.21,Union of the Comoros,Comoros,45,24.21,24.21,24.21,24.21
+205,25.85,25.85,25.85,25.85,Democratic Republic of São Tomé and Principe,São Tomé and Príncipe,,25.85,25.85,25.85,25.85
+206,24.27,24.27,24.27,24.27,Republic of Cabo Verde,Cape Verde,35,24.27,24.27,24.27,24.27
+211,5.09,5.09,5.09,5.09,Føroyar Is. (Faeroe Is.),Faroe Islands,64,5.09,5.09,5.09,5.09
+219,26.02363636,26.24,26.72,24.45,,Solomon Islands,25,26.24,26.24,26.24,26.24
+224,1.22,1.38,1.43,0.85,South Georgia and the Islands,South Georgia and the South Sandwich Islands,,1.38,1.38,1.38,1.38
+225,6.911666667,6.935,7.28,6.5,Falkland Islands,Falkland Islands,65,6.935,6.935,6.935,6.935
+226,24.095,24.1,24.38,23.8,Republic of Vanuatu,Vanuatu,155,24.1,24.1,24.1,24.1
+238,11.58470588,11.66,12.14,10.82,Kingdom of the Netherlands,Netherlands,150,11.66,11.66,11.66,11.66
+251,11.16131148,11.525,16.41,3.82,New Zealand,New Zealand,156,11.525,11.525,11.525,11.525
